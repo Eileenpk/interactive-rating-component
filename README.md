@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Eileenpk/interactive-rating-component)
+- Live Site URL: [live site](https://eileenpk.github.io/interactive-rating-component/)
 
 ## My process
 -Write Html
